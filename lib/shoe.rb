@@ -21,5 +21,4 @@ class Shoe
     BRANDS.uniq!
   end
   
-
 end
