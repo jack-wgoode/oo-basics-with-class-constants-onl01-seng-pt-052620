@@ -4,7 +4,7 @@ describe 'Shoe' do
     # made aware of the brands of the shoes that are being created?
 
     it 'keeps track of all brands' do
-      brands = ["Uggs", "Rainbow"]
+      brands = ["Uggs", "Rainbow"]https://learn.co/tracks/online-software-engineering-structured/object-oriented-ruby/section-5-object-lifecycle/oo-basics-with-class-constants#
       brands.each do |brand|
         Shoe.new(brand)
       end
